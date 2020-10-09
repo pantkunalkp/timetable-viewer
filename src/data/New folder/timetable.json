@@ -1,0 +1,312 @@
+{
+    "Timetable": [
+        [
+            [-1, -1, -1, -1, 8, -1, -1, -1],
+            [-1, -1, -1, -1, 8, -1, -1, -1],
+            [-1, -1, -1, -1, 20, -1, -1, -1],
+            [-1, -1, -1, -1, 20, -1, -1, -1],
+            [-1, -1, 23, -1, -1, -1, -1, -1],
+            [-1, -1, 23, -1, -1, -1, -1, -1],
+            [-1, 16, -1, -1, -1, -1, -1, -1],
+            [-1, 18, -1, -1, -1, -1, -1, -1],
+            [-1, 21, -1, -1, -1, -1, -1, -1]
+        ],
+        [
+            [-1, 24, -1, -1, -1, -1, -1, -1],
+            [3, -1, -1, -1, -1, -1, -1, -1],
+            [3, -1, -1, -1, -1, -1, -1, -1],
+            [5, -1, -1, -1, -1, -1, -1, -1],
+            [5, -1, -1, -1, -1, -1, -1, -1],
+            [-1, -1, 9, -1, -1, -1, -1, -1],
+            [-1, -1, 9, -1, -1, -1, -1, -1],
+            [2, -1, -1, -1, -1, -1, -1, -1],
+            [0, -1, -1, -1, -1, -1, -1, -1]
+        ],
+        [
+            [4, -1, -1, -1, -1, -1, -1, -1],
+            [-1, -1, 6, -1, -1, -1, -1, -1],
+            [-1, -1, 6, -1, -1, -1, -1, -1],
+            [-1, -1, 7, -1, -1, -1, -1, -1],
+            [-1, -1, 7, -1, -1, -1, -1, -1],
+            [1, -1, -1, -1, -1, -1, -1, -1],
+            [10, -1, -1, -1, -1, -1, -1, -1],
+            [12, -1, -1, -1, -1, -1, -1, -1],
+            [19, -1, -1, -1, -1, -1, -1, -1]
+        ],
+        [
+            [-1, -1, 13, -1, -1, -1, -1, -1],
+            [-1, -1, 13, -1, -1, -1, -1, -1],
+            [22, -1, -1, -1, -1, -1, -1, -1],
+            [11, -1, -1, -1, -1, -1, -1, -1],
+            [14, -1, -1, -1, -1, -1, -1, -1],
+            [15, -1, -1, -1, -1, -1, -1, -1],
+            [17, -1, -1, -1, -1, -1, -1, -1],
+            [-1, -1, -1, -1, -1, -1, -1, -1],
+            [-1, -1, -1, -1, -1, -1, -1, -1]
+        ],
+        [
+            [-1, -1, -1, -1, -1, -1, -1, -1],
+            [-1, -1, -1, -1, -1, -1, -1, -1],
+            [-1, -1, -1, -1, -1, -1, -1, -1],
+            [-1, -1, -1, -1, -1, -1, -1, -1],
+            [-1, -1, -1, -1, -1, -1, -1, -1],
+            [-1, -1, -1, -1, -1, -1, -1, -1],
+            [-1, -1, -1, -1, -1, -1, -1, -1],
+            [-1, -1, -1, -1, -1, -1, -1, -1],
+            [-1, -1, -1, -1, -1, -1, -1, -1]
+        ]
+    ],
+    "Class": {
+        "8" : {
+            "id": "8",
+            "Teacher": "CSE Faculty",
+            "Subject": "AI and ML using Python Lab",
+            "Groups": "41",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-541",
+            "Time": ["Monday", "9", "10"]
+        },
+        "16" : {
+            "id": "16",
+            "Teacher": "Mrs. Indu",
+            "Subject": "Analog Communications",
+            "Groups": "41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140",
+            "Time": ["Monday", "15"]
+        },
+        "18" : {
+            "id": "18",
+            "Teacher": "Ashutosh  Pandey",
+            "Subject": "Probability and Stochastic Processes",
+            "Groups": "41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140",
+            "Time": ["Monday", "16"]
+        },
+        "20" : {
+            "id": "20",
+            "Teacher": "CSE Faculty",
+            "Subject": "Disruptive Technologies",
+            "Groups": "41",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-541",
+            "Time": ["Monday", "11", "12"]
+        },
+        "21" : {
+            "id": "21",
+            "Teacher": "Mr. Puneet Panchal",
+            "Subject": "Control System- NPTEL",
+            "Groups": "41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140",
+            "Time": ["Monday", "17"]
+        },
+        "23" : { 
+            "id": "23",
+            "Teacher": "Mr.Kishore",
+            "Subject": "Integrated Circuits Lab",
+            "Groups": "41",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-003",
+            "Time": ["Monday", "13", "14"]
+        },
+        "24" : {
+            "id": "24",
+            "Teacher": "Mr.Abhilash Gaur",
+            "Subject": "Digital Signal Processiong- PBL",
+            "Groups": "41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140",
+            "Time": ["Tuesday", "9"]
+        },
+        "3" : {
+            "id": "3",
+            "Teacher": "SLBT Faculty",
+            "Subject": "English Proficiency and Aptitude Building- 3",
+            "Groups": "41",
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-111",
+            "Time": ["Tuesday", "10", "11"]
+        },
+        "5" : {
+            "id": "5",
+            "Teacher": "SLBT Faculty",
+            "Subject": "English Proficiency and Aptitude Building- 3",
+            "Groups": "41",
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-111",
+            "Time": ["Tuesday", "12", "13"]
+        },
+        "9" : {
+            "id": "9",
+            "Teacher": "CSE Faculty",
+            "Subject": "Data Structure using C & C++",
+            "Groups": "41",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-003",
+            "Time": ["Tuesday", "14", "15"]
+        },
+        "2" : {
+            "id": "2",
+            "Teacher": "Mr.Abhilash Gaur",
+            "Subject": "Digital Signal Processiong- PBL",
+            "Groups": "41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111",
+            "Time": ["Tuesday", "16"]
+        },
+        "0" : {
+            "id": "0",
+            "Teacher": "Dr.Rashid Ansari",
+            "Subject": "Integrated Circuits",
+            "Groups": "41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111",
+            "Time": ["Tuesday", "17"]
+        },
+        "4" : {
+            "id": "4",
+            "Teacher": "Mrs. Indu",
+            "Subject": "Analog Communications",
+            "Groups": "41",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111",
+            "Time": ["Wednesday", "9"]
+        },
+        "6" : {
+            "id": "6",
+            "Teacher": "Mr.Abhilash Gaur",
+            "Subject": "Digital Signal Processiong- PBL",
+            "Groups": "41",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-003",
+            "Time": ["Wednesday", "10", "11"]
+        },
+        "7" : {
+            "id": "7",
+            "Teacher": "CSE Faculty",
+            "Subject": "Data Structure using C & C++",
+            "Groups": "41",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-003",
+            "Time": ["Wednesday", "12", "13"]
+        },
+        "1" : {
+            "id": "1",
+            "Teacher": "Mrs. Indu",
+            "Subject": "Analog Communications",
+            "Groups": "41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111",
+            "Time": ["Wednesday", "14"]
+        },
+        "10" : {
+            "id": "10",
+            "Teacher": "Ms. Kirti",
+            "Subject": "Electromagnetic Field Theory",
+            "Groups": "41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111",
+            "Time": ["Wednesday", "15"]
+        },
+        "12" : {
+            "id": "12",
+            "Teacher": "Mr. Puneet Panchal",
+            "Subject": "Control System- NPTEL",
+            "Groups": "41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111",
+            "Time": ["Wednesday", "16"]
+        },
+        "13" : {
+            "id": "13",
+            "Teacher": "Mr.Puneet",
+            "Subject": "Integrated Circuits Lab",
+            "Groups": "41",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-003",
+            "Time": ["Thursday", "9", "10"]
+        },
+        "19" : {
+            "id": "19",
+            "Teacher": "Mr. Puneet Panchal",
+            "Subject": "Control System- NPTEL",
+            "Groups": "41",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111",
+            "Time": ["Wednesday", "17"]
+        },
+        "22" : {
+            "id": "22",
+            "Teacher": "Mr.Abhilash Gaur",
+            "Subject": "Digital Signal Processiong- PBL",
+            "Groups": "41",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111",
+            "Time": ["Thursday", "11"]
+        },
+        "11" : {
+            "id": "11",
+            "Teacher": "Ashutosh  Pandey",
+            "Subject": "Probability and Stochastic Processes",
+            "Groups": "41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111",
+            "Time": ["Thursday", "12"]
+        },
+        "14" : {
+            "id": "14",
+            "Teacher": "Ashutosh  Pandey",
+            "Subject": "Probability and Stochastic Processes",
+            "Groups": "41",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111",
+            "Time": ["Thursday", "13"]
+        },
+        "15" : {
+            "id": "15",
+            "Teacher": "Dr.Rashid Ansari",
+            "Subject": "Integrated Circuits",
+            "Groups": "41",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111",
+            "Time": ["Thursday", "14"]
+        },
+        "17" : {
+            "id": "17",
+            "Teacher": "Dr.Rashid Ansari",
+            "Subject": "Integrated Circuits",
+            "Groups": "41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111",
+            "Time": ["Thursday", "15"]
+        },
+        "NULL" : {}
+    }
+}

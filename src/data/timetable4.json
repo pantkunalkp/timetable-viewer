@@ -1,0 +1,3835 @@
+{
+    "Batches": {
+        "1 P1": "B. Tech(CSE)-4th SEM Batch 1",
+        "2 P1": "B. Tech(CSE)-4th SEM Batch 2",
+        "3 P1": "B. Tech(CSE)-4th SEM Batch 3",
+        "4 P1": "B. Tech(CSE)-4th SEM Batch 4",
+        "5 P1": "B. Tech(CSE)-4th SEM Batch 5",
+        "6 P1": "B. Tech(CSE)-4th SEM Batch 6",
+        "7 P1": "B. Tech(CSE)-4th SEM Batch 7",
+        "8 P1": "B. Tech(CSE)-4th SEM Batch 8",
+        "9 P1": "B. Tech(CSE)-4th SEM Batch 9",
+        "10 P1": "B. Tech(CSE)-4th SEM Batch 10",
+        "1 P2": "B. Tech(CSE)-4th SEM Batch 1",
+        "2 P2": "B. Tech(CSE)-4th SEM Batch 2",
+        "3 P2": "B. Tech(CSE)-4th SEM Batch 3",
+        "4 P2": "B. Tech(CSE)-4th SEM Batch 4",
+        "5 P2": "B. Tech(CSE)-4th SEM Batch 5",
+        "6 P2": "B. Tech(CSE)-4th SEM Batch 6",
+        "7 P2": "B. Tech(CSE)-4th SEM Batch 7",
+        "8 P2": "B. Tech(CSE)-4th SEM Batch 8",
+        "9 P2": "B. Tech(CSE)-4th SEM Batch 9",
+        "10 P2": "B. Tech(CSE)-4th SEM Batch 10"
+    },
+    "Classrooms": {
+        "Theory": ["C-216", "C-217", "C-218", "C-311", "C-312"],
+        "CBlockLab": ["C-406", "C-407", "C-408", "C-503"],
+        "ProgrammingLab": ["A-322", "A-110", "A-111"],
+        "SLBT": ["C-417", "C-546"]
+    },
+    "Timetable": [
+        [
+            [
+                0,
+                64,
+                4,
+                109,
+                null,
+                167,
+                null,
+                8,
+                9,
+                10,
+                26,
+                null,
+                2,
+                6
+            ],
+            [
+                13,
+                null,
+                16,
+                null,
+                101,
+                167,
+                null,
+                8,
+                9,
+                10,
+                26,
+                null,
+                2,
+                6
+            ],
+            [
+                234,
+                23,
+                24,
+                null,
+                null,
+                null,
+                15,
+                null,
+                null,
+                34,
+                46,
+                49,
+                30,
+                35
+            ],
+            [
+                118,
+                125,
+                null,
+                null,
+                164,
+                null,
+                15,
+                null,
+                null,
+                34,
+                46,
+                49,
+                30,
+                35
+            ],
+            [null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+            [
+                41,
+                null,
+                153,
+                null,
+                48,
+                null,
+                227,
+                null,
+                62,
+                52,
+                77,
+                null,
+                38,
+                42
+            ],
+            [
+                12,
+                null,
+                null,
+                54,
+                null,
+                null,
+                227,
+                null,
+                62,
+                52,
+                77,
+                null,
+                38,
+                42
+            ],
+            [
+                56,
+                162,
+                58,
+                148,
+                207,
+                17,
+                59,
+                null,
+                null,
+                89,
+                null,
+                null,
+                null,
+                117
+            ],
+            [
+                55,
+                65,
+                222,
+                69,
+                70,
+                17,
+                59,
+                null,
+                null,
+                89,
+                null,
+                null,
+                null,
+                117
+            ]
+        ],
+        [
+            [
+                131,
+                196,
+                null,
+                76,
+                null,
+                67,
+                null,
+                91,
+                71,
+                112,
+                115,
+                122,
+                null,
+                158
+            ],
+            [
+                25,
+                null,
+                null,
+                84,
+                47,
+                67,
+                null,
+                91,
+                71,
+                112,
+                115,
+                122,
+                null,
+                158
+            ],
+            [
+                86,
+                null,
+                74,
+                92,
+                93,
+                31,
+                null,
+                110,
+                116,
+                null,
+                null,
+                135,
+                165,
+                185
+            ],
+            [
+                null,
+                95,
+                null,
+                82,
+                87,
+                31,
+                null,
+                110,
+                116,
+                null,
+                null,
+                135,
+                165,
+                185
+            ],
+            [null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+            [
+                129,
+                null,
+                null,
+                103,
+                null,
+                161,
+                242,
+                133,
+                134,
+                null,
+                152,
+                193,
+                197,
+                201
+            ],
+            [
+                106,
+                null,
+                null,
+                null,
+                null,
+                161,
+                242,
+                133,
+                134,
+                null,
+                152,
+                193,
+                197,
+                201
+            ],
+            [
+                105,
+                195,
+                null,
+                171,
+                121,
+                null,
+                141,
+                149,
+                null,
+                202,
+                216,
+                null,
+                212,
+                223
+            ],
+            [
+                14,
+                188,
+                126,
+                null,
+                null,
+                null,
+                141,
+                149,
+                null,
+                202,
+                216,
+                null,
+                212,
+                223
+            ]
+        ],
+        [
+            [
+                206,
+                108,
+                null,
+                111,
+                83,
+                null,
+                169,
+                170,
+                null,
+                239,
+                248,
+                null,
+                224,
+                255
+            ],
+            [
+                140,
+                null,
+                143,
+                113,
+                145,
+                null,
+                169,
+                170,
+                null,
+                239,
+                248,
+                null,
+                224,
+                255
+            ],
+            [
+                146,
+                147,
+                null,
+                151,
+                154,
+                177,
+                180,
+                182,
+                183,
+                258,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                203,
+                156,
+                157,
+                159,
+                160,
+                177,
+                180,
+                182,
+                183,
+                258,
+                null,
+                null,
+                null,
+                null
+            ],
+            [null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+            [
+                191,
+                163,
+                237,
+                166,
+                168,
+                186,
+                199,
+                200,
+                204,
+                28,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                244,
+                173,
+                174,
+                78,
+                176,
+                186,
+                199,
+                200,
+                204,
+                28,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                179,
+                181,
+                184,
+                187,
+                null,
+                218,
+                null,
+                233,
+                127,
+                81,
+                null,
+                155,
+                null
+            ],
+            [
+                53,
+                null,
+                190,
+                198,
+                192,
+                null,
+                218,
+                null,
+                233,
+                127,
+                81,
+                null,
+                155,
+                null
+            ]
+        ],
+        [
+            [
+                null,
+                189,
+                142,
+                39,
+                136,
+                240,
+                241,
+                null,
+                245,
+                249,
+                null,
+                null,
+                66,
+                null
+            ],
+            [
+                205,
+                null,
+                175,
+                208,
+                210,
+                240,
+                241,
+                null,
+                245,
+                249,
+                null,
+                null,
+                66,
+                null
+            ],
+            [
+                178,
+                213,
+                null,
+                215,
+                217,
+                253,
+                257,
+                120,
+                5,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                219,
+                221,
+                229,
+                225,
+                226,
+                253,
+                257,
+                120,
+                5,
+                90,
+                null,
+                null,
+                null,
+                null
+            ],
+            [null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+            [
+                228,
+                96,
+                230,
+                231,
+                232,
+                null,
+                null,
+                22,
+                null,
+                90,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                37,
+                235,
+                236,
+                null,
+                238,
+                36,
+                null,
+                22,
+                44,
+                220,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                243,
+                60,
+                246,
+                247,
+                250,
+                36,
+                null,
+                null,
+                44,
+                220,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                251,
+                252,
+                254,
+                256,
+                259,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ]
+        ],
+        [
+            [
+                260,
+                261,
+                119,
+                72,
+                88,
+                null,
+                null,
+                63,
+                null,
+                150,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                94,
+                98,
+                132,
+                45,
+                73,
+                3,
+                20,
+                63,
+                138,
+                150,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                137,
+                1,
+                80,
+                99,
+                100,
+                3,
+                20,
+                null,
+                138,
+                130,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                19,
+                102,
+                128,
+                21,
+                29,
+                27,
+                75,
+                79,
+                104,
+                130,
+                97,
+                null,
+                null,
+                null
+            ],
+            [null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+            [
+                85,
+                139,
+                7,
+                33,
+                43,
+                27,
+                75,
+                79,
+                104,
+                null,
+                97,
+                null,
+                null,
+                null
+            ],
+            [
+                194,
+                50,
+                51,
+                57,
+                61,
+                11,
+                124,
+                209,
+                172,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                107,
+                68,
+                114,
+                123,
+                211,
+                11,
+                124,
+                209,
+                172,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                214,
+                144,
+                18,
+                32,
+                40,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ]
+        ]
+    ],
+    "Class": {
+        "0": {
+            "id": 0,
+            "Teacher": "Karthick R",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "2": {
+            "id": 2,
+            "Teacher": "SURYA TOMAR",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-417 "
+        },
+        "4": {
+            "id": 4,
+            "Teacher": "Himanshu Pundir",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "6": {
+            "id": 6,
+            "Teacher": "SHUCHI RASTOGI",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-546 "
+        },
+        "8": {
+            "id": 8,
+            "Teacher": "Dr. Kumar Dilip",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "6 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-408 "
+        },
+        "9": {
+            "id": 9,
+            "Teacher": "Bibhas Kumar Rana",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "9 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-503 "
+        },
+        "10": {
+            "id": 10,
+            "Teacher": "Varsha Sisaudia",
+            "Subject": "Industry Oriented Java-II",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-322 "
+        },
+        "13": {
+            "id": 13,
+            "Teacher": "Dinesh Kumar Baghel",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "15": {
+            "id": 15,
+            "Teacher": "Swati Singh",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "8 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-407 "
+        },
+        "16": {
+            "id": 16,
+            "Teacher": "Deepika Sherawat/?",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "23": {
+            "id": 23,
+            "Teacher": "Dr. Bharat Bhushan Naib",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "24": {
+            "id": 24,
+            "Teacher": "Gayathri.N",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "26": {
+            "id": 26,
+            "Teacher": "Manoj Kumar",
+            "Subject": "Industry Oriented Python-II",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-110 "
+        },
+        "30": {
+            "id": 30,
+            "Teacher": "SHUCHI RASTOGI",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "V",
+            "Duration": "2",
+            "Classroom": "C-417 "
+        },
+        "34": {
+            "id": 34,
+            "Teacher": "A Daniel",
+            "Subject": "AI&ML using Python Lab",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-322 "
+        },
+        "35": {
+            "id": 35,
+            "Teacher": "RICHA RANA",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-546 "
+        },
+        "38": {
+            "id": 38,
+            "Teacher": "SHIKHA PANT",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-417 "
+        },
+        "41": {
+            "id": 41,
+            "Teacher": "Ashutosh Pnadey",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "42": {
+            "id": 42,
+            "Teacher": "RICHA RANA",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "V",
+            "Duration": "2",
+            "Classroom": "C-546 "
+        },
+        "46": {
+            "id": 46,
+            "Teacher": "",
+            "Subject": "Industry Oriented Java-III",
+            "Groups": [
+                "AI",
+                "BA",
+                "GG",
+                "IOT",
+                "BD",
+                "IS"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-110 "
+        },
+        "48": {
+            "id": 48,
+            "Teacher": "Dr.D.Maria Manuel Vianny",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "49": {
+            "id": 49,
+            "Teacher": "Deepica.S",
+            "Subject": "AI&ML using Python Lab",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-111 "
+        },
+        "52": {
+            "id": 52,
+            "Teacher": "Varsha Sisaudia",
+            "Subject": "Industry Oriented Java-II",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-322 "
+        },
+        "54": {
+            "id": 54,
+            "Teacher": "Sonia kukreja",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "56": {
+            "id": 56,
+            "Teacher": "Deepica.S",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "58": {
+            "id": 58,
+            "Teacher": "Mr.Dinesh Singh",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "59": {
+            "id": 59,
+            "Teacher": "Sonia kukreja",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "10 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-407 "
+        },
+        "65": {
+            "id": 65,
+            "Teacher": "Dr. Kumar Dilip",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "67": {
+            "id": 67,
+            "Teacher": "Ajay Kaushik",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "6 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-406 "
+        },
+        "69": {
+            "id": 69,
+            "Teacher": "Gayathri.N",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "70": {
+            "id": 70,
+            "Teacher": "Rajendra Prasad",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "76": {
+            "id": 76,
+            "Teacher": "Dr.Rohit Tripathi",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "77": {
+            "id": 77,
+            "Teacher": "Dr.M.THIRUNAVUKKARASAN",
+            "Subject": "Industry Oriented Python-II",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-110 "
+        },
+        "84": {
+            "id": 84,
+            "Teacher": "Bibhas Kumar Rana",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "86": {
+            "id": 86,
+            "Teacher": "Dr.D.Maria Manuel Vianny",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "89": {
+            "id": 89,
+            "Teacher": "Saurabh Kumar Srivastava",
+            "Subject": "Industry Oriented Java-II",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-322 "
+        },
+        "92": {
+            "id": 92,
+            "Teacher": "Dr. Bharat Bhushan Naib",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "93": {
+            "id": 93,
+            "Teacher": "Dr. D. Ganesh Gopal",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "95": {
+            "id": 95,
+            "Teacher": "Dr. Sasikumar Periyannan",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "103": {
+            "id": 103,
+            "Teacher": "Shelly Khurana",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "106": {
+            "id": 106,
+            "Teacher": "Deepika Sherawat/?",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "110": {
+            "id": 110,
+            "Teacher": "Dr Avadhesh Kumar",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "6 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-408 "
+        },
+        "112": {
+            "id": 112,
+            "Teacher": "Jerald Nirmal Kumar S",
+            "Subject": "AI&ML using Python Lab",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-322 "
+        },
+        "115": {
+            "id": 115,
+            "Teacher": "Jay Prakash",
+            "Subject": "AI&ML using Python Lab",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-110 "
+        },
+        "116": {
+            "id": 116,
+            "Teacher": "Dr.D.Maria Manuel Vianny",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "3 P1",
+                "3 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-503 "
+        },
+        "117": {
+            "id": 117,
+            "Teacher": "RITU BHARGAVA",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-546 "
+        },
+        "121": {
+            "id": 121,
+            "Teacher": "Jerald Nirmal Kumar S",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "122": {
+            "id": 122,
+            "Teacher": "Hradesh Kumar",
+            "Subject": "Industry Oriented Java-II",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-111 "
+        },
+        "126": {
+            "id": 126,
+            "Teacher": "Varun Tiwari",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "133": {
+            "id": 133,
+            "Teacher": "VARUN TIWARI",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "9 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-408 "
+        },
+        "135": {
+            "id": 135,
+            "Teacher": "Anisha",
+            "Subject": "Industry Oriented Java-II",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-111 "
+        },
+        "140": {
+            "id": 140,
+            "Teacher": "Abhay Kumar",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "141": {
+            "id": 141,
+            "Teacher": "Dr. Bharat Bhushan Naib",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "5 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-407 "
+        },
+        "143": {
+            "id": 143,
+            "Teacher": "Dr Naresh Kumar",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "145": {
+            "id": 145,
+            "Teacher": "Jaydeep Kishore",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "146": {
+            "id": 146,
+            "Teacher": "Mr.Dinesh Singh",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "147": {
+            "id": 147,
+            "Teacher": "Dr. Rudra Pratap Ojha",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "149": {
+            "id": 149,
+            "Teacher": "Prem Prakash Agrawal",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "1 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-408 "
+        },
+        "151": {
+            "id": 151,
+            "Teacher": "Dr. Mukund Pratap Singh",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "152": {
+            "id": 152,
+            "Teacher": "Nilanjana Pradhan",
+            "Subject": "Industry Oriented Java-II",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-110 "
+        },
+        "156": {
+            "id": 156,
+            "Teacher": "Muruganandam",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "157": {
+            "id": 157,
+            "Teacher": "Prem Prakash Agrawal",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "158": {
+            "id": 158,
+            "Teacher": "SURYA TOMAR",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "V",
+            "Duration": "2",
+            "Classroom": "C-546 "
+        },
+        "159": {
+            "id": 159,
+            "Teacher": "Bharathi kannan",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "160": {
+            "id": 160,
+            "Teacher": "Dr.M.Kumaresan",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "163": {
+            "id": 163,
+            "Teacher": "Dhruv Kumar",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "165": {
+            "id": 165,
+            "Teacher": "SHUCHI RASTOGI",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "V",
+            "Duration": "2",
+            "Classroom": "C-417 "
+        },
+        "166": {
+            "id": 166,
+            "Teacher": "Dr Avadhesh Kumar",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "168": {
+            "id": 168,
+            "Teacher": "Dhruv Kumar",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "169": {
+            "id": 169,
+            "Teacher": "Dr. Sasikumar Periyannan",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "4 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-407 "
+        },
+        "170": {
+            "id": 170,
+            "Teacher": "Dhruv Kumar",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "5 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-408 "
+        },
+        "173": {
+            "id": 173,
+            "Teacher": "Dr Avadhesh Kumar",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "174": {
+            "id": 174,
+            "Teacher": "Amit Kumar",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "176": {
+            "id": 176,
+            "Teacher": "Bharathi kannan",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "177": {
+            "id": 177,
+            "Teacher": "Amit Kumar",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "9 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-406 "
+        },
+        "179": {
+            "id": 179,
+            "Teacher": "Prem Prakash Agrawal",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "180": {
+            "id": 180,
+            "Teacher": "Dr. Rudra Pratap Ojha",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "10 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-407 "
+        },
+        "181": {
+            "id": 181,
+            "Teacher": "Mr. Kishore",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "182": {
+            "id": 182,
+            "Teacher": "Dr.Thirunavukkarasu K.",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "8 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-408 "
+        },
+        "183": {
+            "id": 183,
+            "Teacher": "Bibhas Kumar Rana",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "9 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-503 "
+        },
+        "184": {
+            "id": 184,
+            "Teacher": "Sushant Shekhar",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "185": {
+            "id": 185,
+            "Teacher": "RITU BHARGAVA",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "V",
+            "Duration": "2",
+            "Classroom": "C-546 "
+        },
+        "186": {
+            "id": 186,
+            "Teacher": "Dr. Bharat Bhushan Naib",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "4 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-406 "
+        },
+        "187": {
+            "id": 187,
+            "Teacher": "Dr.M.Kumaresan",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "190": {
+            "id": 190,
+            "Teacher": "Muruganandam",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "192": {
+            "id": 192,
+            "Teacher": "Karthick R",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "193": {
+            "id": 193,
+            "Teacher": "VivekAnand",
+            "Subject": "Industry Oriented Java-II",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-111 "
+        },
+        "197": {
+            "id": 197,
+            "Teacher": "SHUCHI RASTOGI",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "V",
+            "Duration": "2",
+            "Classroom": "C-417 "
+        },
+        "199": {
+            "id": 199,
+            "Teacher": "Dr.M.Kumaresan",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "10 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-407 "
+        },
+        "200": {
+            "id": 200,
+            "Teacher": "Dr. Sasikumar Periyannan",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-408 "
+        },
+        "201": {
+            "id": 201,
+            "Teacher": "SURYA TOMAR",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-546 "
+        },
+        "202": {
+            "id": 202,
+            "Teacher": "Himanshu Pundir",
+            "Subject": "AI&ML using Python Lab",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-322 "
+        },
+        "204": {
+            "id": 204,
+            "Teacher": "Gayathri.N",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "3 P1",
+                "3 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-503 "
+        },
+        "205": {
+            "id": 205,
+            "Teacher": "A.Arulprakash",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "208": {
+            "id": 208,
+            "Teacher": "Mr. Kishore",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "210": {
+            "id": 210,
+            "Teacher": "Pradeep Kumar",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "212": {
+            "id": 212,
+            "Teacher": "SHUCHI RASTOGI",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-417 "
+        },
+        "213": {
+            "id": 213,
+            "Teacher": "Dr. Kumar Dilip",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "215": {
+            "id": 215,
+            "Teacher": "Dr. Sasikumar Periyannan",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "216": {
+            "id": 216,
+            "Teacher": "Ashutosh Updhayay",
+            "Subject": "Industry Oriented Java-II",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-110 "
+        },
+        "217": {
+            "id": 217,
+            "Teacher": "P.Rajakumar",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "218": {
+            "id": 218,
+            "Teacher": "Dr. Mukund Pratap Singh",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-407 "
+        },
+        "219": {
+            "id": 219,
+            "Teacher": "Shivam Shreevastava",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "221": {
+            "id": 221,
+            "Teacher": "A.Arulprakash",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "223": {
+            "id": 223,
+            "Teacher": "SHIKHA PANT",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "V",
+            "Duration": "2",
+            "Classroom": "C-546 "
+        },
+        "224": {
+            "id": 224,
+            "Teacher": "SHUCHI RASTOGI",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-417 "
+        },
+        "225": {
+            "id": 225,
+            "Teacher": "Pradeep Kumar",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "226": {
+            "id": 226,
+            "Teacher": "Shelly Khurana",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "228": {
+            "id": 228,
+            "Teacher": "Mr.Dinesh Singh",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "230": {
+            "id": 230,
+            "Teacher": "Dhruv Kumar",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "231": {
+            "id": 231,
+            "Teacher": "Abhay Kumar",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "232": {
+            "id": 232,
+            "Teacher": "Dr. Kumar Dilip",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "233": {
+            "id": 233,
+            "Teacher": "Dr.L.Godlin Atlas",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "4 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-503 "
+        },
+        "235": {
+            "id": 235,
+            "Teacher": "Varun Tiwari",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "236": {
+            "id": 236,
+            "Teacher": "BASETTY MALLIKARJUNA",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "238": {
+            "id": 238,
+            "Teacher": "Ankit Kumar",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "239": {
+            "id": 239,
+            "Teacher": "Jay Prakash",
+            "Subject": "AI&ML using Python Lab",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-322 "
+        },
+        "240": {
+            "id": 240,
+            "Teacher": "Shobhit Kumar",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "6 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-406 "
+        },
+        "241": {
+            "id": 241,
+            "Teacher": "Dr. D. Nageswara Rao",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "10 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-407 "
+        },
+        "243": {
+            "id": 243,
+            "Teacher": "Ankit Kumar",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "245": {
+            "id": 245,
+            "Teacher": "Dr. Rudra Pratap Ojha",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "5 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-503 "
+        },
+        "246": {
+            "id": 246,
+            "Teacher": "Sonia kukreja",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "247": {
+            "id": 247,
+            "Teacher": "Abhay Kumar",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "248": {
+            "id": 248,
+            "Teacher": "Jerald Nirmal Kumar S",
+            "Subject": "AI&ML using Python Lab",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-110 "
+        },
+        "250": {
+            "id": 250,
+            "Teacher": "Rajendra Prasad",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "251": {
+            "id": 251,
+            "Teacher": "Shivam Shreevastava",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "252": {
+            "id": 252,
+            "Teacher": "Dr Avadhesh Kumar",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "253": {
+            "id": 253,
+            "Teacher": "Shobhit Kumar",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "5 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-406 "
+        },
+        "254": {
+            "id": 254,
+            "Teacher": "Jaydeep Kishore",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "255": {
+            "id": 255,
+            "Teacher": "RITU BHARGAVA",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "V",
+            "Duration": "2",
+            "Classroom": "C-546 "
+        },
+        "256": {
+            "id": 256,
+            "Teacher": "Dr Naresh Kumar",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "257": {
+            "id": 257,
+            "Teacher": "Jaydeep Kishore",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "10 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-407 "
+        },
+        "258": {
+            "id": 258,
+            "Teacher": "BASETTY MALLIKARJUNA",
+            "Subject": "AI&ML using Python Lab",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-322 "
+        },
+        "259": {
+            "id": 259,
+            "Teacher": "Deepika Sherawat/?",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "260": {
+            "id": 260,
+            "Teacher": "Dr.M.Kumaresan",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "261": {
+            "id": 261,
+            "Teacher": "BASETTY MALLIKARJUNA",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "127": {
+            "id": 127,
+            "Teacher": "Nikita",
+            "Subject": "Industry Oriented Python-II",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-322 "
+        },
+        "94": {
+            "id": 94,
+            "Teacher": "Dr. SANJAY KUMAR",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "72": {
+            "id": 72,
+            "Teacher": "Mr. Kishore",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "88": {
+            "id": 88,
+            "Teacher": "Amit Kumar",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "98": {
+            "id": 98,
+            "Teacher": "Prem Prakash Agrawal",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "132": {
+            "id": 132,
+            "Teacher": "Amit Kumar",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "45": {
+            "id": 45,
+            "Teacher": "Mr.Dinesh Singh",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "137": {
+            "id": 137,
+            "Teacher": "Jay Prakash",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "1": {
+            "id": 1,
+            "Teacher": "Himanshu Pundir",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "3": {
+            "id": 3,
+            "Teacher": "Deepika Sherawat",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "8 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-406 "
+        },
+        "19": {
+            "id": 19,
+            "Teacher": "Dr. Mukund Pratap Singh",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "28": {
+            "id": 28,
+            "Teacher": "Sanjay Sharma",
+            "Subject": "Industry Oriented Python-II",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-322 "
+        },
+        "36": {
+            "id": 36,
+            "Teacher": "Gayathri.N",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "6 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-406 "
+        },
+        "73": {
+            "id": 73,
+            "Teacher": "Ashutosh Pnadey",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "80": {
+            "id": 80,
+            "Teacher": "Dr. Sasikumar Periyannan",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "81": {
+            "id": 81,
+            "Teacher": "Heena Khera",
+            "Subject": "Industry Oriented Python-II",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-110 "
+        },
+        "85": {
+            "id": 85,
+            "Teacher": "Gayathri.N",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "99": {
+            "id": 99,
+            "Teacher": "Dr.Rohit Tripathi",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "100": {
+            "id": 100,
+            "Teacher": "Divesh Garg",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "102": {
+            "id": 102,
+            "Teacher": "Dr.Usha Chauhan",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "107": {
+            "id": 107,
+            "Teacher": "Mr. Yogesh Kumar",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "120": {
+            "id": 120,
+            "Teacher": "Prem Prakash Agrawal",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "2 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-408 "
+        },
+        "128": {
+            "id": 128,
+            "Teacher": "Jaydeep Kishore",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "130": {
+            "id": 130,
+            "Teacher": "Varsha Sisaudia",
+            "Subject": "Industry Oriented Java-II",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-322 "
+        },
+        "139": {
+            "id": 139,
+            "Teacher": "Rajendra Prasad",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "7": {
+            "id": 7,
+            "Teacher": "Dr Naresh Kumar",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "21": {
+            "id": 21,
+            "Teacher": "Sushant Shekhar",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "29": {
+            "id": 29,
+            "Teacher": "Himanshu Pundir",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "33": {
+            "id": 33,
+            "Teacher": "Shivam Shreevastava",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "43": {
+            "id": 43,
+            "Teacher": "P.Rajakumar",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "50": {
+            "id": 50,
+            "Teacher": "P.Rajakumar",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "51": {
+            "id": 51,
+            "Teacher": "Karthick R",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "57": {
+            "id": 57,
+            "Teacher": "Jerald Nirmal Kumar S",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "61": {
+            "id": 61,
+            "Teacher": "Mr.Dinesh Singh",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "68": {
+            "id": 68,
+            "Teacher": "Varun Tiwari",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "114": {
+            "id": 114,
+            "Teacher": "Dr.M.Kumaresan",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "123": {
+            "id": 123,
+            "Teacher": "Dr. D. Ganesh Gopal",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "144": {
+            "id": 144,
+            "Teacher": "Divesh Garg",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "211": {
+            "id": 211,
+            "Teacher": "Dr. Bharat Bhushan Naib",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "5": {
+            "id": 5,
+            "Teacher": "Prabhat Chandra Gupta",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "2 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-503 "
+        },
+        "11": {
+            "id": 11,
+            "Teacher": "Dr.L.Godlin Atlas",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "6 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-406 "
+        },
+        "18": {
+            "id": 18,
+            "Teacher": "Sushant Shekhar",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "20": {
+            "id": 20,
+            "Teacher": "Bharathi kannan",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "2 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-407 "
+        },
+        "22": {
+            "id": 22,
+            "Teacher": "Dr. Bharat Bhushan Naib",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "10 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-408 "
+        },
+        "27": {
+            "id": 27,
+            "Teacher": "Varun Tiwari",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "1 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-406 "
+        },
+        "32": {
+            "id": 32,
+            "Teacher": "A.Arulprakash",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "40": {
+            "id": 40,
+            "Teacher": "Dhruv Kumar",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "44": {
+            "id": 44,
+            "Teacher": "Dr.L.Godlin Atlas",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "1 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-503 "
+        },
+        "53": {
+            "id": 53,
+            "Teacher": "Dr.D.Maria Manuel Vianny",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "62": {
+            "id": 62,
+            "Teacher": "Abhay Kumar",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "8 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-503 "
+        },
+        "63": {
+            "id": 63,
+            "Teacher": "Sonia Kukreja",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "5 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-408 "
+        },
+        "64": {
+            "id": 64,
+            "Teacher": "Dinesh Kumar Baghel",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "66": {
+            "id": 66,
+            "Teacher": "RITU BHARGAVA",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-417 "
+        },
+        "74": {
+            "id": 74,
+            "Teacher": "Dr.Usha Chauhan",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "75": {
+            "id": 75,
+            "Teacher": "Bharathi Kannan",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "4 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-407 "
+        },
+        "79": {
+            "id": 79,
+            "Teacher": "Dr.L.Godlin Atlas",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "4 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-408 "
+        },
+        "125": {
+            "id": 125,
+            "Teacher": "Pradeep Kumar",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "162": {
+            "id": 162,
+            "Teacher": "Dr. SANJAY KUMAR",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "178": {
+            "id": 178,
+            "Teacher": "Jay Prakash",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "82": {
+            "id": 82,
+            "Teacher": "Dr.M.Kumaresan",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "87": {
+            "id": 87,
+            "Teacher": "Sushant Shekhar",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "90": {
+            "id": 90,
+            "Teacher": "Nikita",
+            "Subject": "Industry Oriented Python-II",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-322 "
+        },
+        "101": {
+            "id": 101,
+            "Teacher": "Mr.Dinesh Singh",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "104": {
+            "id": 104,
+            "Teacher": "Dr.Thirunavukkarasu K.",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "1 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-503 "
+        },
+        "108": {
+            "id": 108,
+            "Teacher": "Shobhit Kumar",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "109": {
+            "id": 109,
+            "Teacher": "Dhruv Kumar",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "111": {
+            "id": 111,
+            "Teacher": "Muruganandam",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "113": {
+            "id": 113,
+            "Teacher": "Shobhit Kumar",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "118": {
+            "id": 118,
+            "Teacher": "Dr. Rudra Pratap Ojha",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "124": {
+            "id": 124,
+            "Teacher": "Dr. Kavita",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "2 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-407 "
+        },
+        "131": {
+            "id": 131,
+            "Teacher": "Sushant Shekhar",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "138": {
+            "id": 138,
+            "Teacher": "Ankit Kumar",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "2 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-503 "
+        },
+        "153": {
+            "id": 153,
+            "Teacher": "Dr.Rohit Tripathi",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "154": {
+            "id": 154,
+            "Teacher": "Dhruv Kumar",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "161": {
+            "id": 161,
+            "Teacher": "Ankit Kumar",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "4 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-406 "
+        },
+        "171": {
+            "id": 171,
+            "Teacher": "Bibhas Kumar Rana",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "172": {
+            "id": 172,
+            "Teacher": "Sudeept Singh Yadav",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "9 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-503 "
+        },
+        "195": {
+            "id": 195,
+            "Teacher": "Rajendra Prasad",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "203": {
+            "id": 203,
+            "Teacher": "Shobhit Kumar",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "6 P1",
+                "6 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "207": {
+            "id": 207,
+            "Teacher": "Ashutosh Pnadey",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "222": {
+            "id": 222,
+            "Teacher": "Dr.Rohit Tripathi",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "229": {
+            "id": 229,
+            "Teacher": "Jerald Nirmal Kumar S",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "234": {
+            "id": 234,
+            "Teacher": "Bibhas Kumar Rana",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "244": {
+            "id": 244,
+            "Teacher": "Divesh Garg",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "12": {
+            "id": 12,
+            "Teacher": "Tarun Kumar",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "14": {
+            "id": 14,
+            "Teacher": "Tarun Kumar",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "37": {
+            "id": 37,
+            "Teacher": "Sonia kukreja",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "60": {
+            "id": 60,
+            "Teacher": "Sushant Shekhar",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "78": {
+            "id": 78,
+            "Teacher": "Shelly Khurana",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "148": {
+            "id": 148,
+            "Teacher": "Dr.Rohit Tripathi",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "1 P1",
+                "1 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "191": {
+            "id": 191,
+            "Teacher": "Bharathi kannan",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "198": {
+            "id": 198,
+            "Teacher": "Dr.M.Kumaresan",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "189": {
+            "id": 189,
+            "Teacher": "Jay Prakash",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "96": {
+            "id": 96,
+            "Teacher": "Dr. SANJAY KUMAR",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "91": {
+            "id": 91,
+            "Teacher": "Deepika Sherawat",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "1 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-408 "
+        },
+        "242": {
+            "id": 242,
+            "Teacher": "Prabhat Chandra Gupta",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "8 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-407 "
+        },
+        "249": {
+            "id": 249,
+            "Teacher": "Ravindra Ahuja",
+            "Subject": "AI&ML using Python Lab",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-322 "
+        },
+        "97": {
+            "id": 97,
+            "Teacher": "Nikita",
+            "Subject": "Industry Oriented Python-II",
+            "Groups": [
+                "5 P1",
+                "5 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-110 "
+        },
+        "167": {
+            "id": 167,
+            "Teacher": "Tarun Kumar",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "9 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-406 "
+        },
+        "134": {
+            "id": 134,
+            "Teacher": "Deepika Sherawat",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "8 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-503 "
+        },
+        "71": {
+            "id": 71,
+            "Teacher": "Karthick R",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "1 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-503 "
+        },
+        "150": {
+            "id": 150,
+            "Teacher": "Nikita",
+            "Subject": "Industry Oriented Python-II",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-322 "
+        },
+        "136": {
+            "id": 136,
+            "Teacher": "BASETTY MALLIKARJUNA",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "39": {
+            "id": 39,
+            "Teacher": "Rajendra Prasad",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-311 "
+        },
+        "164": {
+            "id": 164,
+            "Teacher": "Dr.Rohit Tripathi",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "209": {
+            "id": 209,
+            "Teacher": "BASETTY MALLIKARJUNA",
+            "Subject": "Data Base management System-lab",
+            "Groups": [
+                "2 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-408 "
+        },
+        "129": {
+            "id": 129,
+            "Teacher": "Dr. Rudra Pratap Ojha",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "10 P1",
+                "10 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "83": {
+            "id": 83,
+            "Teacher": "Mr.Prabhu",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "220": {
+            "id": 220,
+            "Teacher": "Kamakshi Gupta",
+            "Subject": "Industry Oriented Python-II",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "A-322 "
+        },
+        "227": {
+            "id": 227,
+            "Teacher": "Jaydeep Kishore",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "3 P1",
+                "3 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-407 "
+        },
+        "206": {
+            "id": 206,
+            "Teacher": "Dr.Usha Chauhan",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "17": {
+            "id": 17,
+            "Teacher": "Dr.M.Kumaresan",
+            "Subject": "Data Communication & Networking  lab",
+            "Groups": [
+                "5 P1"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-406 "
+        },
+        "25": {
+            "id": 25,
+            "Teacher": "Mr.Prabhu",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "188": {
+            "id": 188,
+            "Teacher": "Dr. Mukund Pratap Singh",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "237": {
+            "id": 237,
+            "Teacher": "Tarun Kumar",
+            "Subject": "Data Base Management System",
+            "Groups": [
+                "9 P1",
+                "9 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "175": {
+            "id": 175,
+            "Teacher": "Rajendra Prasad",
+            "Subject": "Probability and Statistics",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "105": {
+            "id": 105,
+            "Teacher": "Mr. Yogesh Kumar",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "194": {
+            "id": 194,
+            "Teacher": "Dinesh Kumar Baghel",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "155": {
+            "id": 155,
+            "Teacher": "SURYA TOMAR",
+            "Subject": "English Proficiency and Aptitude Building – 3",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "V",
+            "Duration": "2",
+            "Classroom": "C-417 "
+        },
+        "142": {
+            "id": 142,
+            "Teacher": "Dr. D. Ganesh Gopal",
+            "Subject": "Data Communication and Networking",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "119": {
+            "id": 119,
+            "Teacher": "Mr. Yogesh Kumar",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "3 P1",
+                "3 P2",
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-218 "
+        },
+        "196": {
+            "id": 196,
+            "Teacher": "Deepica.S",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-217 "
+        },
+        "55": {
+            "id": 55,
+            "Teacher": "Ankit Kumar",
+            "Subject": "Operating Systems",
+            "Groups": [
+                "4 P1",
+                "4 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "214": {
+            "id": 214,
+            "Teacher": "Mr.Prabhu",
+            "Subject": "Transducer Sensor and Embedded System",
+            "Groups": [
+                "8 P1",
+                "8 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-216 "
+        },
+        "47": {
+            "id": 47,
+            "Teacher": "Deepica.S",
+            "Subject": "AI&ML using Python",
+            "Groups": [
+                "2 P1",
+                "2 P2"
+            ],
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-312 "
+        },
+        "31": {
+            "id": 31,
+            "Teacher": "Dr. SANJAY KUMAR",
+            "Subject": "IOS,Android App Development Lab",
+            "Groups": [
+                "7 P1",
+                "7 P2"
+            ],
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-406 "
+        }
+    }
+}

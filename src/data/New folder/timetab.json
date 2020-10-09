@@ -1,0 +1,1350 @@
+{
+    "Batches" : {
+        "41" : "B. Tech(ECE)-FOURTH SEMESTER",
+        "42" : "B. Tech(EEE)-FOURTH SEMESTER",
+        "43" : "B. Tech(EE)-FOURTH SEMESTER",
+        "61" : "B. Tech(ECE)-SIXTH SEMESTER",
+        "62" : "B. Tech(EEE)-SIXTH SEMESTER",
+        "63" : "B. Tech(EE)-SIXTH SEMESTER",
+        "21" : "M. Tech(PSE)-SECOND SEMESTER"
+    },
+    "Faculties" : [
+        "Ashutosh  Pandey",
+        "Mr.Abhilash Gaur",
+        "Mr.PK Srivastava",
+        "Dr.Jeba Shiney",
+        "Dr.Rashid Ansari",
+        "Mr.Kishore",
+        "Dr.Usha Chauhan",
+        "Dr. B. Mohapatra",
+        "Mrs.Sushma Kakkar",
+        "Mr. Puneet Panchal",
+        "Ms. Kirti Pathak",
+        "Mrs.Indu",
+        "SLBT Faculty",
+        "CSE Faculty",
+        "Mr..Murganandam",
+        "Dr.Jeba Das",
+        "Dr.Yogesh Kumar",
+        "Mr.Ajay Kishore",
+        "Dr.Lokesh Varshney",
+        "Mr. D. Sarvanan",
+        "Dr. Sheetla Prasad",
+        "Dr. Shagufta",
+        "Mr.K Prabhu",
+        "Mrs. Divya Sharma",
+        "Mr.Dinesh",
+        "Mr. Karthick R",
+        "Dr.Geetanjali Mehta",
+        "Mrs. Sushma Kakkar",
+        "Dr.Pratima Walde",
+        "Dr.Lokesh Varshney",
+        "Mr.R.N.Shaw",
+        "Mr.K Prabhu",
+        "Mr. Mukesh Kumar Jha",
+        "Mr. Karthick R",
+        "Mr.Lokesh Garg",
+        "Dr.Rohit Tripathi",
+        "Mr.Dinesh Singh"
+    ],
+    "Timetable": [
+        [
+            [-1, -1, -1, -1, -1, -1, -1, -1, -1],
+            [101, 43, 115, -1, -1, -1, -1, -1, -1],
+            [-1, 118, 40, -1, -1, -1, -1, -1, -1],
+            [18, 5, 24, 41, -1, -1, -1, -1, -1],
+            [39, 80, 123, 41, -1, -1, -1, -1, -1],
+            [0, 4, 6, -1, 67, -1, -1, -1, -1],
+            [30, -1, 73, -1, 67, -1, -1, -1, -1],
+            [-1, 10, 75, 34, -1, -1, -1, -1, -1],
+            [112, 106, -1, 34, -1, -1, -1, -1, -1]
+        ],
+        [
+            [26, 58, -1, -1, -1, 63, -1, -1, -1],
+            [29, 74, 119, -1, -1, 63, -1, -1, -1],
+            [84, -1, -1, -1, 94, -1, -1, -1, -1],
+            [-1, 49, -1, -1, 94, -1, -1, -1, -1],
+            [122, 88, 107, 82, 53, -1, -1, -1, -1],
+            [17, 81, 64, 82, 53, -1, -1, -1, -1],
+            [17, -1, 95, -1, -1, -1, -1, 16, -1],
+            [37, -1, 50, -1, -1, 55, -1, 16, -1],
+            [93, 25, 104, -1, -1, 55, -1, -1, -1]
+        ],
+        [
+            [105, 2, 96, 45, -1, -1, -1, -1, -1],
+            [99, 2, 56, 45, -1, -1, -1, -1, -1],
+            [70, -1, 59, -1, 28, -1, -1, -1, -1],
+            [97, 32, 19, -1, 28, 52, -1, -1, 100],
+            [14, 35, -1, 87, -1, 52, -1, 116, 100],
+            [69, 68, -1, 87, -1, -1, -1, 116, -1],
+            [27, -1, 121, -1, -1, 61, -1, -1, -1],
+            [47, 72, 108, -1, -1, 61, -1, -1, -1],
+            [76, 51, 15, -1, -1, -1, -1, -1, -1]
+        ],
+        [
+            [11, -1, 77, -1, -1, 1, -1, -1, -1],
+            [31, 44, 23, 78, -1, 1, -1, -1, -1],
+            [114, 83, 36, 78, -1, -1, -1, -1, -1],
+            [103, 42, 109, -1, -1, -1, -1, -1, -1],
+            [65, 54, 120, -1, 7, -1, -1, -1, -1],
+            [22, 9, 48, -1, 7, -1, -1, -1, -1],
+            [33, 57, -1, -1, 8, -1, -1, -1, -1],
+            [85, 20, 46, -1, 8, -1, -1, -1, -1],
+            [111, -1, 12, -1, -1, -1, -1, -1, -1]
+        ],
+        [
+            [79, 71, 117, -1, -1, -1, -1, -1, -1],
+            [38, -1, 102, -1, -1, -1, -1, -1, -1],
+            [90, 89, 91, -1, -1, -1, -1, -1, -1],
+            [3, 66, 91, -1, -1, -1, -1, -1, -1],
+            [110, -1, 92, -1, -1, -1, -1, -1, -1],
+            [21, 62, 60, -1, -1, -1, -1, -1, -1],
+            [113, -1, 60, -1, -1, -1, -1, -1, -1],
+            [13, 86, -1, -1, -1, -1, -1, -1, -1],
+            [98, 86, -1, -1, -1, -1, -1, -1, -1]
+        ]
+    ],
+    "Class": {
+        "94": {
+            "id": "94",
+            "Teacher": "CSE Faculty",
+            "Subject": "AI and ML using Python Lab",
+            "Groups": " 42, 43, 41, 61, 62, 63",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-244 ",
+            "Time": ["Tuesday", "11", "12"]
+        },
+        "93": {
+            "id": "93",
+            "Teacher": "Mrs. Divya Sharma",
+            "Subject": "Integrated circuit",
+            "Groups": " 62",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Tuesday", "17"]
+        },
+        "63": {
+            "id": "63",
+            "Teacher": "CSE Faculty",
+            "Subject": "Data Structure using C & C++",
+            "Groups": " 41",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-541 ",
+            "Time": ["Tuesday", "9", "10"]
+        },
+        "24": {
+            "id": "24",
+            "Teacher": "Mrs. Divya Sharma",
+            "Subject": "Integrated circuit",
+            "Groups": " 62",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Monday", "12"]
+        },
+        "37": {
+            "id": "37",
+            "Teacher": "Dr.Lokesh Varshney",
+            "Subject": "Renewable Energy Sources",
+            "Groups": " 21",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Tuesday", "16"]
+        },
+        "17": {
+            "id": "17",
+            "Teacher": "SLBT Faculty",
+            "Subject": "English Proficiency and Aptitude Building- 3",
+            "Groups": " 41",
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-111 ",
+            "Time": ["Tuesday", "14", "15"]
+        },
+        "80": {
+            "id": "80",
+            "Teacher": "Mrs.Sushma Kakkar",
+            "Subject": "Operation and control in power system",
+            "Groups": " 62",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Monday", "13"]
+        },
+        "82": {
+            "id": "82",
+            "Teacher": "Dr.Lokesh Varshney",
+            "Subject": "Electrical Machine-I lab",
+            "Groups": " 42, 43",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-003 ",
+            "Time": ["Tuesday", "13", "14"]
+        },
+        "25": {
+            "id": "25",
+            "Teacher": "Dr.Usha Chauhan",
+            "Subject": "Analog Electronic Circuits",
+            "Groups": " 43",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Tuesday", "17"]
+        },
+        "99": {
+            "id": "99",
+            "Teacher": "Dr.Jeba Das",
+            "Subject": "VLSI  Design",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Wednesday", "10"]
+        },
+        "22": {
+            "id": "22",
+            "Teacher": "Dr.Jeba Das",
+            "Subject": "VLSI  Design",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Thursday", "14"]
+        },
+        "54": {
+            "id": "54",
+            "Teacher": "Mr. Puneet Panchal",
+            "Subject": "Control System- NPTEL",
+            "Groups": " 41",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Thursday", "13"]
+        },
+        "87": {
+            "id": "87",
+            "Teacher": "Dr.Lokesh Varshney",
+            "Subject": "EEE project based learning-2",
+            "Groups": " 42",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-003 ",
+            "Time": ["Wednesday", "13", "14"]
+        },
+        "57": {
+            "id": "57",
+            "Teacher": "Dr.Jeba Shiney",
+            "Subject": "Digital Image Processing(PE-2)",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Thursday", "15"]
+        },
+        "104": {
+            "id": "104",
+            "Teacher": "Mr.Lokesh Garg",
+            "Subject": "Advanced Power System Protection",
+            "Groups": " 21",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Tuesday", "17"]
+        },
+        "35": {
+            "id": "35",
+            "Teacher": "Dr. Pratima Walde",
+            "Subject": "Power System Planning in Deregulated Environment",
+            "Groups": " 21",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Wednesday", "13"]
+        },
+        "30": {
+            "id": "30",
+            "Teacher": "Mrs. Indu",
+            "Subject": "Analog Communications",
+            "Groups": " 41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Monday", "15"]
+        },
+        "65": {
+            "id": "65",
+            "Teacher": "Mrs.Shagufta",
+            "Subject": "Power System Transients",
+            "Groups": " 21",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Thursday", "13"]
+        },
+        "50": {
+            "id": "50",
+            "Teacher": "Mr.K Prabhu",
+            "Subject": "Embedded and Iot Systems",
+            "Groups": " 62, 63",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Tuesday", "16"]
+        },
+        "4": {
+            "id": "4",
+            "Teacher": "Mr.Kishore",
+            "Subject": "Electromagnetic Field Theory",
+            "Groups": " 42, 43",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Monday", "14"]
+        },
+        "107": {
+            "id": "107",
+            "Teacher": "Ms.Kirti",
+            "Subject": "Antenna and Wave Propagation",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Tuesday", "13"]
+        },
+        "76": {
+            "id": "76",
+            "Teacher": "Dr. Sheetla Prasad",
+            "Subject": "Fundamentals of Power System ",
+            "Groups": " 42, 43",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Wednesday", "17"]
+        },
+        "31": {
+            "id": "31",
+            "Teacher": "Mrs.Indu",
+            "Subject": "Information  and Theory Coding(PE-2)",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Thursday", "10"]
+        },
+        "32": {
+            "id": "32",
+            "Teacher": "Dr.Geetanjali Mehta",
+            "Subject": "Non Conventional Energy Resources-P elect",
+            "Groups": " 63",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Wednesday", "12"]
+        },
+        "2": {
+            "id": "2",
+            "Teacher": "SLBT Faculty",
+            "Subject": "English Proficiency and Aptitude Building- 3",
+            "Groups": " 42, 43",
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-140 ",
+            "Time": ["Wednesday", "9", "10"]
+        },
+        "119": {
+            "id": "119",
+            "Teacher": "Dr. Sheetla Prasad",
+            "Subject": "Fundamentals of Power System ",
+            "Groups": " 42, 43",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Tuesday", "10"]
+        },
+        "114": {
+            "id": "114",
+            "Teacher": "Mr. Puneet Panchal",
+            "Subject": "Advanced Control System-P-Elect",
+            "Groups": " 63",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Thursday", "11"]
+        },
+        "21": {
+            "id": "21",
+            "Teacher": "Ashutosh  Pandey",
+            "Subject": "Probability and Stochastic Processes",
+            "Groups": " 41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Friday", "14"]
+        },
+        "38": {
+            "id": "38",
+            "Teacher": "Mr..Murganandam",
+            "Subject": "Advanced Electronic System Design",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Friday", "10"]
+        },
+        "120": {
+            "id": "120",
+            "Teacher": "Dr.Lokesh Varshney",
+            "Subject": "Electrical Machine-I",
+            "Groups": " 42, 43",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Thursday", "13"]
+        },
+        "77": {
+            "id": "77",
+            "Teacher": "Ashutosh  Pandey",
+            "Subject": "Probability and Stochastic Processes",
+            "Groups": " 42, 43",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Thursday", "9"]
+        },
+        "43": {
+            "id": "43",
+            "Teacher": "Mrs.Sushma Kakkar",
+            "Subject": "Power Quality",
+            "Groups": " 21",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Monday", "10"]
+        },
+        "51": {
+            "id": "51",
+            "Teacher": "Mr..Murganandam",
+            "Subject": "Advanced Electronic System Design",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Wednesday", "17"]
+        },
+        "11": {
+            "id": "11",
+            "Teacher": "Mrs.Indu",
+            "Subject": "Information  and Theory Coding(PE-2)",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Thursday", "9"]
+        },
+        "108": {
+            "id": "108",
+            "Teacher": "Dr. B. Mohapatra",
+            "Subject": "Mobile Ad Hoc Networks(PE-1)",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Wednesday", "16"]
+        },
+        "48": {
+            "id": "48",
+            "Teacher": "Mrs.Shagufta",
+            "Subject": "Power System Transients",
+            "Groups": " 21",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Thursday", "14"]
+        },
+        "33": {
+            "id": "33",
+            "Teacher": "Ashutosh  Pandey",
+            "Subject": "Probability and Stochastic Processes",
+            "Groups": " 42, 43",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Thursday", "15"]
+        },
+        "46": {
+            "id": "46",
+            "Teacher": "Mr.RN Shaw",
+            "Subject": "Power Electronics",
+            "Groups": " 63",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Thursday", "16"]
+        },
+        "47": {
+            "id": "47",
+            "Teacher": "Dr.Rashid Ansari",
+            "Subject": "Integrated Circuits",
+            "Groups": " 41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Wednesday", "16"]
+        },
+        "105": {
+            "id": "105",
+            "Teacher": "Dr. B. Mohapatra",
+            "Subject": "Mobile Ad Hoc Networks(PE-1)",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Wednesday", "9"]
+        },
+        "18": {
+            "id": "18",
+            "Teacher": "Dr. Pratima Walde",
+            "Subject": "Power System Planning in Deregulated Environment",
+            "Groups": " 21",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Monday", "12"]
+        },
+        "98": {
+            "id": "98",
+            "Teacher": "Mr..Murganandam",
+            "Subject": "Wireless and Mobile Communication",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Friday", "17"]
+        },
+        "106": {
+            "id": "106",
+            "Teacher": "Dr.Lokesh Varshney",
+            "Subject": "Electrical Machine-I",
+            "Groups": " 42, 43",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Monday", "17"]
+        },
+        "28": {
+            "id": "28",
+            "Teacher": "Mr.Kishore",
+            "Subject": "Integrated Circuits Lab",
+            "Groups": " 41",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-244 ",
+            "Time": ["Wednesday", "11", "12"]
+        },
+        "7": {
+            "id": "7",
+            "Teacher": "Mrs. Divya Sharma",
+            "Subject": "Embedded and Iot Systems Lab",
+            "Groups": " 62, 63",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-244 ",
+            "Time": ["Thursday", "13", "14"]
+        },
+        "9": {
+            "id": "9",
+            "Teacher": "Mr.Sarvanan",
+            "Subject": "Program Elective-1/Renewable  energy",
+            "Groups": " 42",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Thursday", "14"]
+        },
+        "72": {
+            "id": "72",
+            "Teacher": "Mr.Lokesh Garg",
+            "Subject": "Power System Planning and Reliability",
+            "Groups": " 21",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Wednesday", "16"]
+        },
+        "27": {
+            "id": "27",
+            "Teacher": "Mr.Lokesh Garg",
+            "Subject": "Power System Planning and Reliability",
+            "Groups": " 21",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Wednesday", "15"]
+        },
+        "118": {
+            "id": "118",
+            "Teacher": "Mr.Kishore",
+            "Subject": "Electromagnetic Field Theory",
+            "Groups": " 42, 43",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Monday", "11"]
+        },
+        "75": {
+            "id": "75",
+            "Teacher": "Dr.Geetanjali Mehta",
+            "Subject": "Non Conventional Energy Resources-P elect",
+            "Groups": " 63",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Monday", "16"]
+        },
+        "89": {
+            "id": "89",
+            "Teacher": "Mr. Puneet Panchal",
+            "Subject": "Control System- NPTEL",
+            "Groups": " 41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Friday", "11"]
+        },
+        "1": {
+            "id": "1",
+            "Teacher": "Mrs.Sushma Kakka",
+            "Subject": "Power System Lab-II",
+            "Groups": " 21",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-541 ",
+            "Time": ["Thursday", "9", "10"]
+        },
+        "0": {
+            "id": "0",
+            "Teacher": "Mrs.Indu",
+            "Subject": "Information  and Theory Coding(PE-2)",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Monday", "14"]
+        },
+        "103": {
+            "id": "103",
+            "Teacher": "Mr. Puneet Panchal",
+            "Subject": "Advanced Control System-P-Elect",
+            "Groups": " 63",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Thursday", "12"]
+        },
+        "61": {
+            "id": "61",
+            "Teacher": "CSE Faculty",
+            "Subject": "Data Structure using C & C++",
+            "Groups": " 42, 43",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-541 ",
+            "Time": ["Wednesday", "15", "16"]
+        },
+        "109": {
+            "id": "109",
+            "Teacher": "Dr.Jeba Shiney",
+            "Subject": "Digital Image Processing(PE-2)",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Thursday", "12"]
+        },
+        "97": {
+            "id": "97",
+            "Teacher": "Ashutosh  Pandey",
+            "Subject": "Probability and Stochastic Processes",
+            "Groups": " 42, 43",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Wednesday", "12"]
+        },
+        "59": {
+            "id": "59",
+            "Teacher": "Dr.Usha Chauhan",
+            "Subject": "Analog Electronic Circuits",
+            "Groups": " 43",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Wednesday", "11"]
+        },
+        "102": {
+            "id": "102",
+            "Teacher": "Mr.K Prabhu",
+            "Subject": "Embedded and Iot Systems",
+            "Groups": " 62, 63",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Friday", "10"]
+        },
+        "73": {
+            "id": "73",
+            "Teacher": "Dr. Sheetla Prasad",
+            "Subject": "Fundamentals of Power System ",
+            "Groups": " 42, 43",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Monday", "15"]
+        },
+        "55": {
+            "id": "55",
+            "Teacher": "CSE Faculty",
+            "Subject": "Disruptive Technologies",
+            "Groups": " 41",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-541 ",
+            "Time": ["Tuesday", "16", "17"]
+        },
+        "100": {
+            "id": "100",
+            "Teacher": "Dr. Shagufta",
+            "Subject": "Minor Project",
+            "Groups": " 62",
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-537 ",
+            "Time": ["Wednesday", "12", "13"]
+        },
+        "49": {
+            "id": "49",
+            "Teacher": "Dr.Lokesh Varshney",
+            "Subject": "Renewable Energy Sources",
+            "Groups": " 21",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Tuesday", "12"]
+        },
+        "20": {
+            "id": "20",
+            "Teacher": "Dr.Jeba Das",
+            "Subject": "VLSI  Design",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Thursday", "16"]
+        },
+        "6": {
+            "id": "6",
+            "Teacher": "Mr.Abhilash Gaur",
+            "Subject": "Digital Signal Processiong- PBL",
+            "Groups": " 41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Monday", "14"]
+        },
+        "39": {
+            "id": "39",
+            "Teacher": "Ashutosh  Pandey",
+            "Subject": "Probability and Stochastic Processes",
+            "Groups": " 41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Monday", "13"]
+        },
+        "53": {
+            "id": "53",
+            "Teacher": "Mr.Dinesh",
+            "Subject": "Integrated circuit Lab",
+            "Groups": " 62",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-244 ",
+            "Time": ["Tuesday", "13", "14"]
+        },
+        "45": {
+            "id": "45",
+            "Teacher": "CSE Faculty",
+            "Subject": "Disruptive Technologies",
+            "Groups": " 62, 63",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-003 ",
+            "Time": ["Wednesday", "9", "10"]
+        },
+        "111": {
+            "id": "111",
+            "Teacher": "Dr, Jeba Shieny",
+            "Subject": "Neural Networks and Deep Learning(PE-1)",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Thursday", "17"]
+        },
+        "85": {
+            "id": "85",
+            "Teacher": "Dr.Usha Chauhan",
+            "Subject": "Analog Electronic Circuits",
+            "Groups": " 43",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Thursday", "16"]
+        },
+        "74": {
+            "id": "74",
+            "Teacher": "Dr. Pratima Walde",
+            "Subject": "Power System Planning in Deregulated Environment",
+            "Groups": " 21",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Tuesday", "10"]
+        },
+        "16": {
+            "id": "16",
+            "Teacher": "Mr.Puneet",
+            "Subject": "Minor Project",
+            "Groups": " 61",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-446 ",
+            "Time": ["Tuesday", "15", "16"]
+        },
+        "41": {
+            "id": "41",
+            "Teacher": "Mr.Sarvanan",
+            "Subject": "EE Project Based Learning - 2",
+            "Groups": " 43",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-003 ",
+            "Time": ["Monday", "12", "13"]
+        },
+        "62": {
+            "id": "62",
+            "Teacher": "Dr. Shagufta",
+            "Subject": "Power system Analysis",
+            "Groups": " 62, 63",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Friday", "14"]
+        },
+        "52": {
+            "id": "52",
+            "Teacher": "Dr.Jeba Das",
+            "Subject": "VLSI Design Lab",
+            "Groups": " 61",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-541 ",
+            "Time": ["Wednesday", "12", "13"]
+        },
+        "60": {
+            "id": "60",
+            "Teacher": "SLBT Faculty",
+            "Subject": "English Proficiency and Aptitude Building- 3",
+            "Groups": " 42, 43",
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-110 ",
+            "Time": ["Friday", "14", "15"]
+        },
+        "64": {
+            "id": "64",
+            "Teacher": "Mr.RN Shaw",
+            "Subject": "Power Electronics",
+            "Groups": " 63",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Tuesday", "14"]
+        },
+        "91": {
+            "id": "91",
+            "Teacher": "SLBT Faculty",
+            "Subject": "Campus to Corporate",
+            "Groups": " 61",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-110 ",
+            "Time": ["Friday", "11", "12"]
+        },
+        "110": {
+            "id": "110",
+            "Teacher": "Mrs.Sushma Kakkar",
+            "Subject": "Operation and control in power system",
+            "Groups": " 62",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Friday", "13"]
+        },
+        "121": {
+            "id": "121",
+            "Teacher": "Mrs. Indu",
+            "Subject": "Analog Communications",
+            "Groups": " 41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Wednesday", "15"]
+        },
+        "88": {
+            "id": "88",
+            "Teacher": "Ms. Kirti",
+            "Subject": "Electromagnetic Field Theory",
+            "Groups": " 41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Tuesday", "13"]
+        },
+        "84": {
+            "id": "84",
+            "Teacher": "Mrs.Sushma Kakkar",
+            "Subject": "Power Quality",
+            "Groups": " 21",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Tuesday", "11"]
+        },
+        "14": {
+            "id": "14",
+            "Teacher": "Mr.Abhilash Gaur",
+            "Subject": "Digital Signal Processiong- PBL",
+            "Groups": " 41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Wednesday", "13"]
+        },
+        "12": {
+            "id": "12",
+            "Teacher": "Mrs. Indu",
+            "Subject": "Analog Communications",
+            "Groups": " 41",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Thursday", "17"]
+        },
+        "123": {
+            "id": "123",
+            "Teacher": "Mr.Lokesh Garg",
+            "Subject": "Advanced Power System Protection",
+            "Groups": " 21",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Monday", "13"]
+        },
+        "81": {
+            "id": "81",
+            "Teacher": "Ms.Kirti",
+            "Subject": "Antenna and Wave Propagation",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Tuesday", "14"]
+        },
+        "8": {
+            "id": "8",
+            "Teacher": "Mr.Abhilash Gaur",
+            "Subject": "Digital Signal Processiong- PBL",
+            "Groups": " 41",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-244 ",
+            "Time": ["Thursday", "15", "16"]
+        },
+        "23": {
+            "id": "23",
+            "Teacher": "Ms. Kirti",
+            "Subject": "Electromagnetic Field Theory",
+            "Groups": " 41",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Thursday", "10"]
+        },
+        "19": {
+            "id": "19",
+            "Teacher": "Dr.Lokesh Varshney",
+            "Subject": "Renewable Energy Sources",
+            "Groups": " 21",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Wednesday", "12"]
+        },
+        "86": {
+            "id": "86",
+            "Teacher": "SLBT Faculty",
+            "Subject": "English Proficiency and Aptitude Building- 3",
+            "Groups": " 41",
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-140 ",
+            "Time": ["Friday", "16", "17"]
+        },
+        "116": {
+            "id": "116",
+            "Teacher": "Mr.R.N.Shaw",
+            "Subject": "Minor Project",
+            "Groups": " 63",
+            "Type": "P",
+            "Duration": "2",
+            "Classroom": "C-446 ",
+            "Time": ["Wednesday", "13", "14"]
+        },
+        "5": {
+            "id": "5",
+            "Teacher": "Mr.Abhilash Gaur",
+            "Subject": "Digital Signal Processiong- PBL",
+            "Groups": " 41",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Monday", "12"]
+        },
+        "78": {
+            "id": "78",
+            "Teacher": "CSE Faculty",
+            "Subject": "Disruptive Technologies",
+            "Groups": " 42, 43",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-003 ",
+            "Time": ["Thursday", "10", "11"]
+        },
+        "68": {
+            "id": "68",
+            "Teacher": "Mr..Murganandam",
+            "Subject": "Advanced Electronic System Design",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Wednesday", "14"]
+        },
+        "90": {
+            "id": "90",
+            "Teacher": "Dr. Shagufta",
+            "Subject": "Power system Analysis",
+            "Groups": " 62, 63",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Friday", "11"]
+        },
+        "122": {
+            "id": "122",
+            "Teacher": "Dr.Geetanjali Mehta",
+            "Subject": "Non Conventional Energy Resources-P elect",
+            "Groups": " 63",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Tuesday", "13"]
+        },
+        "115": {
+            "id": "115",
+            "Teacher": "Dr, Jeba Shieny",
+            "Subject": "Neural Networks and Deep Learning(PE-1)",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Monday", "10"]
+        },
+        "26": {
+            "id": "26",
+            "Teacher": "Dr.Lokesh Varshney",
+            "Subject": "Electrical Machine-I",
+            "Groups": " 42, 43",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Tuesday", "9"]
+        },
+        "69": {
+            "id": "69",
+            "Teacher": "Mr.Lokesh Garg",
+            "Subject": "Power System Planning and Reliability",
+            "Groups": " 21",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Wednesday", "14"]
+        },
+        "13": {
+            "id": "13",
+            "Teacher": "Mr.Lokesh Garg",
+            "Subject": "Advanced Power System Protection",
+            "Groups": " 21",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Friday", "16"]
+        },
+        "79": {
+            "id": "79",
+            "Teacher": "Ms. Kirti",
+            "Subject": "Electromagnetic Field Theory",
+            "Groups": " 41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Friday", "9"]
+        },
+        "3": {
+            "id": "3",
+            "Teacher": "Mrs.Sushma Kakkar",
+            "Subject": "Power Quality",
+            "Groups": " 21",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Friday", "12"]
+        },
+        "92": {
+            "id": "92",
+            "Teacher": "Ashutosh  Pandey",
+            "Subject": "Probability and Stochastic Processes",
+            "Groups": " 41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Friday", "13"]
+        },
+        "29": {
+            "id": "29",
+            "Teacher": "Mr..Murganandam",
+            "Subject": "Wireless and Mobile Communication",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Tuesday", "10"]
+        },
+        "34": {
+            "id": "34",
+            "Teacher": "CSE Faculty",
+            "Subject": "Disruptive Technologies",
+            "Groups": " 61",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-003 ",
+            "Time": ["Monday", "16", "17"]
+        },
+        "112": {
+            "id": "112",
+            "Teacher": "Mrs.Sushma Kakkar",
+            "Subject": "Operation and control in power system",
+            "Groups": " 62",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Monday", "17"]
+        },
+        "113": {
+            "id": "113",
+            "Teacher": "Mrs. Divya Sharma",
+            "Subject": "Integrated circuit",
+            "Groups": " 62",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Friday", "15"]
+        },
+        "36": {
+            "id": "36",
+            "Teacher": "Dr. B. Mohapatra",
+            "Subject": "Mobile Ad Hoc Networks(PE-1)",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Thursday", "11"]
+        },
+        "56": {
+            "id": "56",
+            "Teacher": "Dr.Rashid Ansari",
+            "Subject": "Integrated Circuits",
+            "Groups": " 41",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Wednesday", "10"]
+        },
+        "117": {
+            "id": "117",
+            "Teacher": "Dr.Jeba Shiney",
+            "Subject": "Digital Image Processing(PE-2)",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Friday", "9"]
+        },
+        "101": {
+            "id": "101",
+            "Teacher": "Dr. Shagufta",
+            "Subject": "Power system Analysis",
+            "Groups": " 62, 63",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Monday", "10"]
+        },
+        "70": {
+            "id": "70",
+            "Teacher": "Ms.Kirti",
+            "Subject": "Antenna and Wave Propagation",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-111 ",
+            "Time": ["Wednesday", "11"]
+        },
+        "44": {
+            "id": "44",
+            "Teacher": "Mr.RN Shaw",
+            "Subject": "Power Electronics",
+            "Groups": " 63",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Thursday", "10"]
+        },
+        "71": {
+            "id": "71",
+            "Teacher": "Mr.K Prabhu",
+            "Subject": "Embedded and Iot Systems",
+            "Groups": " 62, 63",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Friday", "9"]
+        },
+        "10": {
+            "id": "10",
+            "Teacher": "Mr.Kishore",
+            "Subject": "Electromagnetic Field Theory",
+            "Groups": " 42, 43",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Monday", "16"]
+        },
+        "96": {
+            "id": "96",
+            "Teacher": "Dr.Rashid Ansari",
+            "Subject": "Integrated Circuits",
+            "Groups": " 41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Wednesday", "9"]
+        },
+        "67": {
+            "id": "67",
+            "Teacher": "Dr.Geetanjali Mehta",
+            "Subject": "Simulation using MATLAB",
+            "Groups": " 62, 63",
+            "Type": "L",
+            "Duration": "2",
+            "Classroom": "C-244 ",
+            "Time": ["Monday", "14", "15"]
+        },
+        "58": {
+            "id": "58",
+            "Teacher": "Dr, Jeba Shieny",
+            "Subject": "Neural Networks and Deep Learning(PE-1)",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Tuesday", "9"]
+        },
+        "66": {
+            "id": "66",
+            "Teacher": "Mr. Puneet Panchal",
+            "Subject": "Advanced Control System-P-Elect",
+            "Groups": " 63",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Friday", "12"]
+        },
+        "95": {
+            "id": "95",
+            "Teacher": "Mr.Sarvanan",
+            "Subject": "Program Elective-1/Renewable  energy",
+            "Groups": " 42",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Tuesday", "15"]
+        },
+        "40": {
+            "id": "40",
+            "Teacher": "Mr..Murganandam",
+            "Subject": "Wireless and Mobile Communication",
+            "Groups": " 61",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Monday", "11"]
+        },
+        "42": {
+            "id": "42",
+            "Teacher": "Mr.Sarvanan",
+            "Subject": "Program Elective-1/Renewable  energy",
+            "Groups": " 42",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Thursday", "12"]
+        },
+        "15": {
+            "id": "15",
+            "Teacher": "Mr. Puneet Panchal",
+            "Subject": "Control System- NPTEL",
+            "Groups": " 41",
+            "Type": "P",
+            "Duration": "1",
+            "Classroom": "C-110 ",
+            "Time": ["Wednesday", "17"]
+        },
+        "83": {
+            "id": "83",
+            "Teacher": "Mrs.Shagufta",
+            "Subject": "Power System Transients",
+            "Groups": " 21",
+            "Type": "V",
+            "Duration": "1",
+            "Classroom": "C-140 ",
+            "Time": ["Thursday", "11"]
+        },
+        "-1" : {}
+    }
+}
